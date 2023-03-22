@@ -410,3 +410,4 @@ Commit at 2023-03-15 13:08:43: Implement new feature requested by users
 Commit at 2023-03-16 09:59:38: Optimize memory usage in training loop
 Commit at 2023-03-21 18:31:02: Refactor core logic for better performance
 Commit at 2023-03-22 19:37:46: Fix minor bug in data processing
+Commit at 2023-03-22 17:41:36: Add unit tests for new features
