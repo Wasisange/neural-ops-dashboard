@@ -428,3 +428,4 @@ Commit at 2023-04-18 18:46:40: Update README with more detailed instructions
 Commit at 2023-04-21 11:12:28: Add support for new data formats
 Commit at 2023-04-21 11:07:02: Refactor core logic for better performance
 Commit at 2023-04-21 18:05:21: Update documentation and examples
+Commit at 2023-04-27 11:23:26: Fix minor bug in data processing
