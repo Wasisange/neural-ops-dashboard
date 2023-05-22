@@ -441,3 +441,4 @@ Commit at 2023-05-12 09:26:24: Fix minor bug in data processing
 Commit at 2023-05-15 13:27:08: Add unit tests for new features
 Commit at 2023-05-15 16:48:44: Fix security vulnerability in third-party library
 Commit at 2023-05-19 09:02:03: Fix security vulnerability in third-party library
+Commit at 2023-05-22 17:33:30: Update README with more detailed instructions
