@@ -514,3 +514,4 @@ Commit at 2023-10-17 09:36:23: Add unit tests for new features
 Commit at 2023-10-19 11:46:12: Update README with more detailed instructions
 Commit at 2023-10-19 11:06:06: Optimize memory usage in training loop
 Commit at 2023-10-20 13:19:47: Fix minor bug in data processing
+Commit at 2023-10-24 09:51:45: Fix minor bug in data processing
