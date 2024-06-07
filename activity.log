@@ -648,3 +648,4 @@ Commit at 2024-05-31 12:30:13: Implement new feature requested by users
 Commit at 2024-06-05 10:43:40: Fix security vulnerability in third-party library
 Commit at 2024-06-05 10:57:42: Improve model evaluation metrics
 Commit at 2024-06-06 09:36:21: Update README with more detailed instructions
+Commit at 2024-06-07 16:27:25: Add support for new data formats
