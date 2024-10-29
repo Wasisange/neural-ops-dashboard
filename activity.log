@@ -726,3 +726,4 @@ Commit at 2024-10-25 14:04:52: Optimize memory usage in training loop
 Commit at 2024-10-28 09:58:37: Update documentation and examples
 Commit at 2024-10-28 12:29:39: Improve error handling and logging
 Commit at 2024-10-29 16:10:25: Update README with more detailed instructions
+Commit at 2024-10-29 14:15:05: Implement new feature requested by users
