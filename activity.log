@@ -90,3 +90,4 @@ Commit at 2025-03-21 13:47:50: Improve error handling and logging
 Commit at 2025-03-26 10:33:51: Add support for new data formats
 Commit at 2025-03-27 12:45:21: Add support for new data formats
 Commit at 2025-03-28 12:07:39: Enhance visualization tools
+Commit at 2025-03-28 17:56:38: Add unit tests for new features
