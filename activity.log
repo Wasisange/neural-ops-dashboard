@@ -131,3 +131,4 @@ Commit at 2025-05-16 15:22:41: Improve model evaluation metrics
 Commit at 2025-05-19 17:58:56: Update documentation and examples
 Commit at 2025-05-21 11:59:49: Update README with more detailed instructions
 Commit at 2025-05-22 10:26:03: Add support for new data formats
+Commit at 2025-05-22 12:52:25: Optimize memory usage in training loop
