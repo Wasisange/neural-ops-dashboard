@@ -133,3 +133,4 @@ Commit at 2025-05-21 11:59:49: Update README with more detailed instructions
 Commit at 2025-05-22 10:26:03: Add support for new data formats
 Commit at 2025-05-22 12:52:25: Optimize memory usage in training loop
 Commit at 2025-05-22 13:37:16: Refactor core logic for better performance
+Commit at 2025-05-22 09:50:20: Enhance visualization tools
