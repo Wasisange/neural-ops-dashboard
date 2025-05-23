@@ -134,3 +134,4 @@ Commit at 2025-05-22 10:26:03: Add support for new data formats
 Commit at 2025-05-22 12:52:25: Optimize memory usage in training loop
 Commit at 2025-05-22 13:37:16: Refactor core logic for better performance
 Commit at 2025-05-22 09:50:20: Enhance visualization tools
+Commit at 2025-05-23 13:21:01: Add unit tests for new features
