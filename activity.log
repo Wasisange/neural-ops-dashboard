@@ -160,3 +160,4 @@ Commit at 2025-06-10 15:56:40: Fix minor bug in data processing
 Commit at 2025-06-12 14:51:50: Add support for new data formats
 Commit at 2025-06-12 10:57:20: Optimize memory usage in training loop
 Commit at 2025-06-16 14:50:38: Enhance visualization tools
+Commit at 2025-06-16 15:00:21: Update README with more detailed instructions
