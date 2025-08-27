@@ -207,3 +207,4 @@ Commit at 2025-08-25 16:41:07: Update README with more detailed instructions
 Commit at 2025-08-27 16:51:32: Clean up code and remove deprecated functions
 Commit at 2025-08-27 12:08:28: Refactor core logic for better performance
 Commit at 2025-08-27 11:10:03: Refactor core logic for better performance
+Commit at 2025-08-27 16:04:38: Improve error handling and logging
