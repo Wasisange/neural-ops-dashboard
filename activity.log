@@ -249,3 +249,4 @@ Commit at 2025-10-10 15:01:48: Clean up code and remove deprecated functions
 Commit at 2025-10-10 16:32:37: Implement new feature requested by users
 Commit at 2025-10-13 13:22:56: Refactor core logic for better performance
 Commit at 2025-10-13 13:40:53: Add support for new data formats
+Commit at 2025-10-14 11:20:19: Improve error handling and logging
