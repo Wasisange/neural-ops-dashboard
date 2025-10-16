@@ -257,3 +257,4 @@ Commit at 2025-10-15 13:08:22: Update documentation and examples
 Commit at 2025-10-15 12:09:42: Add support for new data formats
 Commit at 2025-10-15 11:50:42: Update documentation and examples
 Commit at 2025-10-16 12:31:43: Update dependencies to latest versions
+Commit at 2025-10-16 11:46:58: Optimize memory usage in training loop
