@@ -342,3 +342,4 @@ Commit at 2026-02-05 18:29:47: Fix minor bug in data processing
 Commit at 2026-02-09 13:17:58: Fix security vulnerability in third-party library
 Commit at 2026-02-10 18:11:57: Add unit tests for new features
 Commit at 2026-02-11 12:41:44: Improve error handling and logging
+Commit at 2026-02-12 15:29:45: Update README with more detailed instructions
