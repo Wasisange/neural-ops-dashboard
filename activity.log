@@ -818,3 +818,4 @@ Commit at 2026-05-01 15:44:07: Improve error handling and logging
 Commit at 2026-05-05 09:06:28: Optimize database queries
 Commit at 2026-05-06 16:10:43: Optimize memory usage in training loop
 Commit at 2026-05-12 13:35:40: Add support for new data formats
+Commit at 2026-05-12 18:58:36: Update README with more detailed instructions
