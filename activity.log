@@ -858,3 +858,4 @@ Commit at 2026-07-31 14:43:57: Enhance visualization tools
 Commit at 2026-08-07 15:04:56: Optimize memory usage in training loop
 Commit at 2026-08-07 11:48:47: Optimize memory usage in training loop
 Commit at 2026-08-07 14:11:20: Optimize memory usage in training loop
+Commit at 2026-08-10 18:45:47: Clean up code and remove deprecated functions
