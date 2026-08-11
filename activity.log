@@ -860,3 +860,4 @@ Commit at 2026-08-07 11:48:47: Optimize memory usage in training loop
 Commit at 2026-08-07 14:11:20: Optimize memory usage in training loop
 Commit at 2026-08-10 18:45:47: Clean up code and remove deprecated functions
 Commit at 2026-08-10 12:40:07: Update README with more detailed instructions
+Commit at 2026-08-11 09:17:19: Update documentation and examples
