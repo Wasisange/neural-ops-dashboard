@@ -885,3 +885,4 @@ Commit at 2026-09-14 14:46:14: Improve model evaluation metrics
 Commit at 2026-09-15 16:42:15: Fix minor bug in data processing
 Commit at 2026-09-17 12:10:42: Update README with more detailed instructions
 Commit at 2026-09-17 15:31:44: Refactor core logic for better performance
+Commit at 2026-09-18 17:04:06: Improve error handling and logging
